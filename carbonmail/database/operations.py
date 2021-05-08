@@ -1,0 +1,1 @@
+# Operações Gerias do Banco de dados
