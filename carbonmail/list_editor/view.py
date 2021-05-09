@@ -114,7 +114,7 @@ def get_layout():
        [
           sg.Button(
              "Voltar",
-             key="back",
+             key="Back",
              size=(15,1),
              pad=((0,0), (7,7)),
 
